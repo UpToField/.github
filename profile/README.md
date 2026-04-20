@@ -26,8 +26,6 @@ Our roadmap focuses on elevating production standards and optimizing supply chai
 ## **IV. The Core Philosophy**
 > "The future of Thai agriculture depends on the **synergy between natural heritage and technological innovation**. By fostering a sustainable and inclusive ecosystem, we ensure that progress benefits the individual farmer and the national economy alike."
 
----
-
 <!--
 
 **Here are some ideas to get you started:**
